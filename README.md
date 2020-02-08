@@ -1,6 +1,6 @@
 # CNT-4731 Project 2 (Confundo)
 
-Template for for FIU CNT-4731 Fall 2019 Project 2
+Template for for FIU CNT-4731 Spring 2020 Project 2
 
 ## Provided Files
 
