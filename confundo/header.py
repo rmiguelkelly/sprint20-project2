@@ -24,6 +24,7 @@ class Header:
         self.isAck = isAck
         self.isSyn = isSyn
         self.isFin = isFin
+        self.isAckclear = True
 
     def encode(self):
         flags = 0

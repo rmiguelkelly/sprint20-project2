@@ -9,13 +9,13 @@ import time
 import sys
 
 class State(Enum):
-    INVALID = 0
-    SYN = 1
-    OPEN = 3
-    FIN = 10
-    FIN_WAIT = 11
-    CLOSED = 20
-    ERROR = 21
+    INVALID     = 0
+    SYN         = 1
+    OPEN        = 3
+    FIN         = 10
+    FIN_WAIT    = 11
+    CLOSED      = 20
+    ERROR       = 21
 
 class Ostream:
     def __init__(self, base = 12345, isOpening = True):
